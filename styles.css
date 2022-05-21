@@ -1,0 +1,59 @@
+.column-1{
+  background-color:#FFEEEE;
+
+}
+body{
+  background-color:#EBD8C3 ;
+}
+.box-1{
+  margin-top: 6rem;
+}
+p{
+  font-size: 1rem;
+}
+.container-2{
+  margin-left: 7rem;
+  margin-top: 6rem;
+}
+.container-3{
+    margin-left: 7rem;
+   margin-top: 3rem;
+}
+.p-container{
+  margin-top: 1rem;
+}
+.input{
+  margin-top: 2rem;
+}
+h1{
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 700;
+letter-spacing: 0.8rem;
+font-size: 4rem;
+
+}
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+  color: #E60965;
+  font-size: 1.2rem;
+
+
+}
+input{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  width: 30rem;
+  height: 3.5rem;
+  border-radius: 5rem;
+  padding-left: 2rem;
+  border: solid;
+  border-width: 1px;
+  border-color: #E60965;
+  color: #FFA1C9;
+}
+span{
+  font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    color: #E60965;
+}
